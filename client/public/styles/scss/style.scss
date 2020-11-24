@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Goldman&display=swap');
+
+$primary-back-color: #222831;
+$secondary-back-color: #a3f7bf;
+$primary-text-color:  #a3f7bf;
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0%;
+    font-family: 'Goldman', cursive;
+}
+
+body{
+    background-color: $secondary-back-color;
+}
